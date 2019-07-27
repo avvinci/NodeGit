@@ -1,0 +1,39 @@
+{
+  "name": "nodegit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.3",
+    "form-data": "^2.3.3",
+    "ignore-walk": "^3.0.1",
+    "inquirer": "^6.5.0",
+    "lodash": "^4.17.15",
+    "minimatch": "^3.0.4",
+    "minimist": "^1.2.0",
+    "nodegit": "^0.24.3",
+    "simple-git": "^1.122.0",
+    "touch": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avvinci/NodeGit.git"
+  },
+  "author": "abhinav vinci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avvinci/NodeGit/issues"
+  },
+  "homepage": "https://github.com/avvinci/NodeGit#readme"
+}
