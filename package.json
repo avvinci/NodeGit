@@ -19,7 +19,7 @@
     "minimatch": "^3.0.4",
     "minimist": "^1.2.0",
     "nodegit": "^0.24.3",
-    "simple-git": "^1.122.0",
+    "simple-git": "^3.3.0",
     "touch": "^3.1.0"
   },
   "devDependencies": {},
